@@ -2,7 +2,7 @@
 
 Files Included:
 
--x86 assembly code to calculate a harmonic sum.
+-x86 assembly code to calculate a harmonic sum and how long it took to complete the calculation.
 
 -main.cpp to show the proudced output.
 
